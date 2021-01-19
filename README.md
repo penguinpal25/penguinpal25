@@ -16,6 +16,6 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&layout=compact&theme=tokyonight" alt="vyshnavlal's most used languages Github Stats" width="400"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&layout=compact&theme=tokyonight" alt="vyshnavlal's most used languages Github Stats" width="470"/>
 
 </div>
