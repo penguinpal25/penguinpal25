@@ -12,7 +12,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=vyshnavlal) [![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)](https://github.com/vyshnavlal)
 
 
-<h1> I'm a server admin from <img src=https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png" width="30px"> </h1> <p> <i>continuous learning and continuous improvement</i></p>
+<h1> <i> I'm a server admin from <img src=https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png" width="30px"> continuous learning and continuous improvement</i></h1>
 
 
 
