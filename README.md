@@ -5,6 +5,6 @@
 </div>
 <div align="center" width="50">
 
-<img src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/name.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/name.gif" alt="Welcome!" width="800"/>
 
 </div>
