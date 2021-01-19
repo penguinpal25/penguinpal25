@@ -1,12 +1,7 @@
 # vyshnavlal
 <div align="center">
-    <style>
-title {
-    font-family: "Montserrat"
     <h2> <b> Hello fellow geeks </b> <img 
-                 src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/Hi.gif" width="30px"> We will be in touch ! </h2>
- }
-</style>                
+                 src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/Hi.gif" width="30px"> We will be in touch ! </h2>           
 </div>
 <div align="center" width="50">
 
