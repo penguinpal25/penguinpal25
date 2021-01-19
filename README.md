@@ -8,8 +8,8 @@
 <img src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/name.gif" alt="Welcome!" width="15000"/>
 
 </div>
-![](https://visitor-badge.laobi.icu/badge?page_id=vyshnavlal)
-[![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)](https://github.com/vyshnavlal)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=vyshnavlal) [![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)](https://github.com/vyshnavlal)
 
 
 
