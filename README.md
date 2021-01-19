@@ -1,5 +1,5 @@
 # vyshnavlal
 <div align="center">
-    <h2> Hello there,  We will be in touch ! <img
-            src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+    <h2> Hello there, fellow geeks. We will be in touch ! <img
+            src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/hi.gif" width="30px"></h2>
 </div>
