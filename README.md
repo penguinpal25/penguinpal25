@@ -11,10 +11,10 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=vyshnavlal) [![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)](https://github.com/vyshnavlal)
 
-<body>
+
 <h1> I'm a server admin from <img src=https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png" width="30px"> </h1> 
-<p style="font-family:verdana;">continuous learning and continuous improvement</p>
-</body>
+#<p style="font-family:verdana;">continuous learning and continuous improvement</p>
+<font face="Arial" size="18px" color="#800000">continuous learning and continuous improvement</font>
 
 
 <div align="left">
