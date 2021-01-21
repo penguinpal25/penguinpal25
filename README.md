@@ -71,8 +71,6 @@ with open('details.yml') as file:
 
 <div align="right">
 
-</div>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&layout=compact&show_icons=true&line_height=5&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vyshnavlal's Github Stats">
 
 </div>
