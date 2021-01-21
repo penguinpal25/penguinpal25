@@ -36,9 +36,9 @@
     - AWS Cloud Watch
   version control:
     - Git
-  Configuration management:
+  configuration management:
     - Ansible
-  Continiuos integration:
+  continiuos integration:
     - Git
   containerization:
     - docker
@@ -60,21 +60,5 @@ with open('details.yml') as file:
 
     for tool, service in services.tool():
         print(tool,":",service)
-
-```
-
-```python
-
-operating systems : ['Red Hat Linux Release 6.x, 7, & 8', 'Ubuntu']
-database : ['MySQL']
-web servers : ['Apache']
-scripting : ['Bash', 'Python']
-monitoring : ['Zabbix', ' Icinga', 'AWS Cloud Watch']
-version control : ['Git']
-configuration management : ['Ansible']
-continiuos integration : ['Git']
-containerization : ['docker', 'openVZ']
-cloud services : ['AWS']
-ticket management : ['WHMCS', 'Groove']
 
 ```
