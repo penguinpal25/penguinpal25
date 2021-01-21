@@ -70,11 +70,12 @@ with open('details.yml') as file:
 
 <div align="right">
 
+</div>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vyshnavlal's Github Stats">
 
 </div>
 
-<br />
-## :blue_book: You can find my blog posts at [Hashnode](https://vyshnavlal.hashnode.dev/)
+:blue_book: You can find my blog posts at [Hashnode](https://vyshnavlal.hashnode.dev/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
