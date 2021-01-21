@@ -13,7 +13,7 @@
 
 <h3> <i> I'm a server <img src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/sirenp.gif" width="30px"> admin from <img src=https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png" width="30px"> "continuous learning 📖 and continuous improvement 🎓"</i></h3>
 
-### <img src="https://media3.giphy.com/media/JpXrAZP987OXpkFu0n/giphy.gif?cid=ecf05e47i40qnbl6qeh8nqhwgd8bujzop5svtwvrqldbkd85&rid=giphy.gif" width="50"> A little more about me...
+<img src="https://media2.giphy.com/media/3ov9k6uOHCgT8ZM3g4/giphy.gif" width="50"> A little more about me...
 
 ```yaml
 
