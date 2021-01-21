@@ -66,14 +66,10 @@ with open('details.yml') as file:
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
+<a href="https://github-readme-stats.vercel.app/api?username=vyshnavlal">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vyshnavlal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark"alt="vyshnavlal's Github Stats">" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&show_icons=true&theme=chartreuse-dark&layout=compact"alt="vyshnavlal's Github Stats"" />
+</a>
 
-<div align="left">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vyshnavlal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card_width=200" alt="vyshnavlal's Github Stats">
-
-<div align="right">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" alt="vyshnavlal's Github Stats">
-
-</div>
-</div>
