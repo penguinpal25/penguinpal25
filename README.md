@@ -77,6 +77,4 @@ with open('details.yml') as file:
 
 </div>
 
-📕 **Latest Blog Posts** [Hashnode](https://vyshnavlal.hashnode.dev/)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
