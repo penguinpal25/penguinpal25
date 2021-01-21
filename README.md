@@ -74,6 +74,6 @@ with open('details.yml') as file:
 
 </div>
 
-You can find my blogs at [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode](https://vyshnavlal.hashnode.dev/)
+You can find my blogs at [Hashnode](https://vyshnavlal.hashnode.dev/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
