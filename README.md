@@ -21,7 +21,8 @@
   become: true
   
   operating systems:
-    - Linux
+    - Red Hat Linux Release 6.x, 7, & 8
+    - Ubuntu
   database:
     - MySQL
   web servers:
@@ -29,15 +30,12 @@
   scripting:
     - Bash
     - Python
-  network management:
-    - netstat
-    - ping
-    - traceroute
-    - curl
-    - telnet
-  monitoring
+  monitoring:
     - Zabbix
     - Icinga
+    - AWS Cloud Watch
+  version control:
+    - Git
   Configuration management:
     - Ansible
   Continiuos integration:
@@ -45,10 +43,14 @@
   containerization:
     - docker
     - openVZ
-  cloud services:
+  cloud platform:
     - AWS
+  ticket management:
+    - WHMCS
+    - Groove
 
 ```
+
 ```python
 
 import yaml
@@ -61,16 +63,18 @@ with open('details.yml') as file:
 
 ```
 
-```python
+```output
 
 operating systems : ['Linux']
 database : ['MySQL']
 web servers : ['Apache']
 scripting : ['Bash', 'Python']
-network management : ['netstat', 'ping', 'traceroute', 'curl', 'telnet']
-monitoring : ['Zabbix', ' Icinga']
+monitoring : ['Zabbix', ' Icinga', 'AWS Cloud Watch']
+version control : ['Git']
 Configuration management : ['Ansible']
 Continiuos integration : ['Git']
 containerization : ['docker', 'openVZ']
 cloud services : ['AWS']
+ticket management : ['WHMCS', 'Groove']
+
 ```
