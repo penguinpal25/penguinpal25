@@ -73,8 +73,8 @@ with open('details.yml') as file:
 
 </div>
 
-<div align="left">
+<div align="right">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" alt="vyshnavlal's Github Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" alt="vyshnavlal's Github Stats">
 
 </div>
