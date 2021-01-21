@@ -65,9 +65,10 @@ with open('details.yml') as file:
 ```
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
+
+
 <div align="left">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vyshnavlal&theme=chartreuse-dark"alt="vyshnavlal's Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vyshnavlal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark"alt="vyshnavlal's Github Stats">
 
 </div>
-
