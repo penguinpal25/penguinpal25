@@ -74,7 +74,7 @@ with open('details.yml') as file:
 
 </div>
 
-
-You can find my blogs at [Hashnode](https://vyshnavlal.hashnode.dev/)
+<br />
+## :blue_book: You can find my blog posts at [Hashnode](https://vyshnavlal.hashnode.dev/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
