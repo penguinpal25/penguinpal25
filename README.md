@@ -63,16 +63,16 @@ with open('details.yml') as file:
 
 ```
 
-```output
+```python
 
-operating systems : ['Linux']
+operating systems : ['Red Hat Linux Release 6.x, 7, & 8', 'Ubuntu']
 database : ['MySQL']
 web servers : ['Apache']
 scripting : ['Bash', 'Python']
 monitoring : ['Zabbix', ' Icinga', 'AWS Cloud Watch']
 version control : ['Git']
-Configuration management : ['Ansible']
-Continiuos integration : ['Git']
+configuration management : ['Ansible']
+continiuos integration : ['Git']
 containerization : ['docker', 'openVZ']
 cloud services : ['AWS']
 ticket management : ['WHMCS', 'Groove']
