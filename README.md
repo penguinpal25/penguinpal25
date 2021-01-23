@@ -69,7 +69,9 @@ with open('details.yml') as file:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vyshnavlal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card_width=200" alt="vyshnavlal's Github Stats">
 
-</div><br/>
+</div>
+
+\
 
 <div align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" alt="vyshnavlal's Github Stats">
