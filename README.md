@@ -79,4 +79,4 @@ with open('details.yml') as file:
 
 <p align="center">
 <a href="mailto:vyshnavlal6367@gmail.com"><img src="https://img.shields.io/badge/-vyshnavlal6367@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://vyshnavlal.hashnode.dev"><img src="https://img.shields.io/badge/-Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"/></a>
+<a href="https://vyshnavlal.hashnode.dev"><img src="https://img.shields.io/badge/-Hashnode-%230077B5.svg?&style=flat&logo=Hashnode&logoColor=white"/></a>
