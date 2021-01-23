@@ -74,3 +74,9 @@ with open('details.yml') as file:
 <!-- BLOG-POST-LIST:START -->
 - [Bash script to convert maildir to mbox format](https://vyshnavlal.hashnode.dev/bash-script-to-convert-maildir-to-mbox-format)
 <!-- BLOG-POST-LIST:END -->
+
+### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:vyshnavlal6367@gmail.com"><img src="https://img.shields.io/badge/-vyshnavlal6367@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://vyshnavlal.hashnode.dev"><img src="https://img.shields.io/badge/-Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white>
