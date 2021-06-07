@@ -23,7 +23,8 @@
   
   operating systems:
     - Red Hat Linux Release 6.x, 7, & 8
-    - Ubuntu
+    - Ubuntu 18.04, 20.04
+    - Cent OS 6.x, 7
   database:
     - MySQL
   web servers:
@@ -40,7 +41,7 @@
   configuration management:
     - Ansible
   continiuos integration:
-    - Git
+    - GitHub Actions
   containerization:
     - docker
     - openVZ
@@ -49,6 +50,7 @@
   ticket management:
     - WHMCS
     - Groove
+    - Salesforce
 
 ```
 
