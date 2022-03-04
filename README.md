@@ -22,13 +22,15 @@
   become: true
   
   operating systems:
-    - Red Hat Linux Release 6.x, 7, & 8
-    - Ubuntu 18.04, 20.04
-    - Cent OS 6.x, 7
-  database:
+    - RHEL
+    - Ubuntu 
+    - CentOS
+  database management system:
     - MySQL
+    - MariaDB
   web servers:
     - Apache
+    - Nginx
   scripting:
     - Bash
     - Python
@@ -44,7 +46,6 @@
     - GitHub Actions
   containerization:
     - docker
-    - openVZ
   cloud platform:
     - AWS
   ticket management:
