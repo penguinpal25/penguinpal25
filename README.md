@@ -11,9 +11,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=vyshnavlal) [![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)](https://github.com/vyshnavlal)
 
 
-<h3> Server <img src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/sirenp.gif" width="30px"> admin ~ "continuous learning 📖 and continuous improvement 🎓"</i></h3>
+<h3> <img src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/sirenp.gif" width="30px"> "continuous learning 📖 and continuous improvement 🎓"</i></h3>
 
-<img src="https://media2.giphy.com/media/3ov9k6uOHCgT8ZM3g4/giphy.gif" width="50"> A little more about me...
+<img src="https://media2.giphy.com/media/3ov9k6uOHCgT8ZM3g4/giphy.gif" width="50"> 
 
 ```yaml
 
