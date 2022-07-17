@@ -1,85 +1,31 @@
-<div align="center">
-    <h2> <b> Hello fellow geeks </b> <img 
-                 src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/Hi.gif" width="30px"> We will be in touch ! </h2>           
-</div>
-<div align="center" width="50">
+<h1 align="center">Hi 👋, I'm Vyshnavlal</h1>
+<h3 align="center">DevOps Engineer, Linux Enthusiast, Arch user</h3>
 
-<img src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/name.gif" alt="Welcome!" width="15000"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vyshnavlal&label=Profile%20views&color=0e75b6&style=flat" alt="vyshnavlal" /> </p>
 
-</div>
+<p align="left"> <a href="https://twitter.com/vyshnavlal5" target="blank"><img src="https://img.shields.io/twitter/follow/vyshnavlal5?logo=twitter&style=for-the-badge" alt="vyshnavlal5" /></a> </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=vyshnavlal) [![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)](https://github.com/vyshnavlal)
+[![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)]
+
+- 👨‍💻 All of my projects are available at [https://www.vyshnavlalp.tk/](https://www.vyshnavlalp.tk/)
+
+- 📝 I regularly write articles on [https://hashnode.com/@vyshnavlal](https://hashnode.com/@vyshnavlal)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vyshnavlal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vyshnavlal5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vyshnavlal-p-0b3b33148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vyshnavlal-p-0b3b33148" height="30" width="40" /></a>
+<a href="https://hashnode.com/@vyshnavlal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vyshnavlal" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<h3> <img src="https://github.com/vyshnavlal/vyshnavlal/blob/main/gifs/sirenp.gif" width="30px"> "continuous learning 📖 and continuous improvement 🎓"</i></h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vyshnavlal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="vyshnavlal" /></p>
 
-<img src="https://media2.giphy.com/media/3ov9k6uOHCgT8ZM3g4/giphy.gif" width="50"> 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavlal&theme=tokyonight&hide_border=false" alt="vyshnavlal" /></p>
 
-```yaml
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="vyshnavlal" /></p>
 
----
-- hosts: vyshnav
-  become: true
-  
-  operating systems:
-    - RHEL
-    - Ubuntu 
-    - CentOS
-  database management system:
-    - MySQL
-    - MariaDB
-  web servers:
-    - Apache
-    - Nginx
-  scripting:
-    - Bash
-    - Python
-  monitoring:
-    - Zabbix
-    - Icinga
-    - AWS Cloud Watch
-  version control:
-    - Git
-  configuration management:
-    - Ansible
-  continiuos integration:
-    - GitHub Actions
-  containerization:
-    - docker
-  cloud platform:
-    - AWS
-  ticket management:
-    - WHMCS
-    - Groove
-    - Salesforce
-
-```
-
-```python
-
-import yaml
-
-with open('details.yml') as file:
-    services = yaml.full_load(file)
-
-    for tool, service in services.tool():
-        print(tool,":",service)
-
-```
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-### ⚙️ GitHub Analytics
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=vyshnavlal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" />
-
-### ⚙️ Browse through my blogs below
-
-<!-- BLOG-POST-LIST:START -->
-- [Bash script to convert maildir to mbox format](https://vyshnavlal.hashnode.dev/bash-script-to-convert-maildir-to-mbox-format)
-<!-- BLOG-POST-LIST:END -->
-
-### ⚙️ Connect with Me
-
-<p align="center">
-<a href="mailto:vyshnavlal6367@gmail.com"><img src="https://img.shields.io/badge/-vyshnavlal6367@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://vyshnavlal.hashnode.dev"><img src="https://img.shields.io/badge/-Hashnode-%230077B5.svg?&style=flat&logo=Hashnode&logoColor=white"/></a>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=vyshnavlal&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="vyshnavlal" /></a> </p>
