@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vyshnavlal">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?width=700&lines=Kon'nichiwa%2C+watashi+wa+Vyshnavlaldesu;Nice+to+meet+you...&center=true&size=30">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Watashi+wa+Vyshnavlal+desu+%F0%9F%91%A6;Yoroshiku+ne+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 </h1>
 
 <img align="right" alt="anime" width="400" src="./gifs/nichijou-anime-brasil (1).gif">
