@@ -45,9 +45,9 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=vyshnavlal&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vyshnavlal&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <br>
 
 <h2 align="center">🏆 𝖦𝗂𝗍𝖧𝗎𝖻 𝖳𝗋𝗈𝗉𝗁𝗂𝖾𝗌</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyshnavlal&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="vyshnavlal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyshnavlal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="vyshnavlal" /></a> </p>
