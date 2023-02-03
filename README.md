@@ -32,16 +32,16 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=vyshnavlal&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="vyshnavlal" />
+      <img align="left" width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=vyshnavlal&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="vyshnavlal" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 height=100 src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavlal&theme=tokyonight&hide_border=true" />
+      <img align="right" width=390 height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavlal&theme=tokyonight&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+      <img width=325 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </a>
   </div>
   <br><br><br>
