@@ -44,7 +44,7 @@
       <img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </a>
   </div>
-  <br><br><br>
+  <br>
   <div align=center>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vyshnavlal&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%"/>
    </div>
