@@ -35,7 +35,7 @@
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=vyshnavlal&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="vyshnavlal" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavlal&theme=tokyonight&hide_border=true" />
+      <img align="right" width=390 height=100 src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavlal&theme=tokyonight&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
