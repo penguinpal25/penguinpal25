@@ -44,7 +44,6 @@
       <img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavlal&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </a>
   </div>
-  <br>
 </p>
 <br>
 
