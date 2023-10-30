@@ -10,7 +10,7 @@
 <p align="left">
    👦 𝖨'𝗆 𝖵𝗒𝗌𝗁𝗇𝖺𝗏𝗅𝖺𝗅, 𝖣𝖾𝗏𝖮𝗉𝗌 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋, 𝖫𝗂𝗇𝗎𝗑 𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍, Fedora 𝗎𝗌𝖾𝗋.
   <br>
-  👨‍💻 𝖠𝗅𝗅 𝗈𝖿 𝗆𝗒 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌 𝖺𝗋𝖾 𝖺𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 on my <a href="https://www.vyshnavlalp.tk/" title="Portfolio">portfolio</a>
+  👨‍💻 𝖠𝗅𝗅 𝗈𝖿 𝗆𝗒 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌 𝖺𝗋𝖾 𝖺𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 on my <a href="https://vyshnavlal.xyz/projects" title="Portfolio">portfolio</a>
   <br>
   💬 𝖠𝗌𝗄 𝗆𝖾 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝖺𝖻𝗈𝗎𝗍 𝖿𝗋𝗈𝗆 <a href="https://github.com/ghostpandab00/ghostpandab00/issues" title="Issues">Here</a>
   <br>
