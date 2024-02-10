@@ -30,7 +30,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=ghostpandab00&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="vyshnavlal" />
+      <img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=ghostpandab00&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&hide_border=true" alt="vyshnavlal" />
     </a>
     <a href="https://streak-stats.demolab.com/demo/" title="Go to Source">
       <img align="right" width=390 height=250 src="https://streak-stats.demolab.com?user=ghostpandab00&theme=catppuccin-macchiato&hide_border=true" />
