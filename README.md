@@ -12,7 +12,7 @@
   <br>
   👨‍💻 𝖠𝗅𝗅 𝗈𝖿 𝗆𝗒 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌 𝖺𝗋𝖾 𝖺𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 on my <a href="https://vyshnavlal.xyz/projects" title="Portfolio">portfolio</a>
   <br>
-  💬 𝖠𝗌𝗄 𝗆𝖾 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝖺𝖻𝗈𝗎𝗍 𝖿𝗋𝗈𝗆 <a href="https://github.com/ghostpandab00/ghostpandab00/issues" title="Issues">Here</a>
+  💬 𝖠𝗌𝗄 𝗆𝖾 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝖺𝖻𝗈𝗎𝗍 𝖿𝗋𝗈𝗆 <a href="https://github.com/vysh0x50/vysh0x50/issues" title="Issues">Here</a>
   <br>
   📝 S𝗈𝗆𝖾 𝗈𝖿 𝗆𝗒 𝖺𝗋𝗍𝗂𝖼𝗅𝖾𝗌 𝖺𝗋𝖾 𝗈𝗇 <a href="https://hashnode.com/@vyshnavlal" title="Hashnode">Hashnode</a>
   <br>
@@ -30,20 +30,20 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=ghostpandab00&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="vyshnavlal" />
+      <img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=vysh0x50&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="vyshnavlal" />
     </a>
     <a href="https://streak-stats.demolab.com/demo/" title="Go to Source">
-      <img align="right" width=390 height=250 src="https://github-readme-streak-stats.herokuapp.com/?user=ghostpandab00&theme=tokyonight&hide_border=true" />
+      <img align="right" width=390 height=250 src="https://github-readme-streak-stats.herokuapp.com/?user=vysh0x50&theme=tokyonight&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostpandab00&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+      <img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysh0x50&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </a>
   </div>
 </p>
 <br>
 
 <h2 align="center">🏆 𝖦𝗂𝗍𝖧𝗎𝖻 𝖳𝗋𝗈𝗉𝗁𝗂𝖾𝗌</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostpandab00&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="vyshnavlal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vysh0x50&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="vyshnavlal" /></a> </p>
