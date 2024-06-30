@@ -8,7 +8,7 @@
 
 <br>
 <p align="left">
-   👦 𝖨'𝗆 𝖵𝗒𝗌𝗁𝗇𝖺𝗏𝗅𝖺𝗅, 𝖣𝖾𝗏𝖮𝗉𝗌 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋, 𝖫𝗂𝗇𝗎𝗑 𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍, Fedora 𝗎𝗌𝖾𝗋.
+   👦 𝖨'𝗆 𝖵𝗒𝗌𝗁𝗇𝖺𝗏𝗅𝖺𝗅, 𝖣𝖾𝗏𝖮𝗉𝗌 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 & 𝖫𝗂𝗇𝗎𝗑 𝗎𝗌𝖾𝗋.
   <br>
   👨‍💻 𝖠𝗅𝗅 𝗈𝖿 𝗆𝗒 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌 𝖺𝗋𝖾 𝖺𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 on my <a href="https://vyshnavlal.xyz/projects" title="Portfolio">portfolio</a>
   <br>
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-<h2 align="center">🔥 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 𝖺𝗇𝖽 𝖳𝗈𝗈𝗅𝗌 🔥 </h2>
+<h2 align="center">🔥 Tech Stack 🔥 </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,bash,docker,git,heroku,py,ansible,arch,atom,elasticsearch,flask,github,githubactions,gitlab,gmail,grafana,jenkins,kubernetes,linkedin,md,mint,mysql,nginx,postman,redhat,terraform,ubuntu,vim,vscode,wordpress)](https://skillicons.dev)
 
@@ -31,16 +31,16 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=vysh0x50&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="vyshnavlal" />
+      <img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=vysh0x50&theme=catppuccin_mocha_border=true&include_all_commits=false&count_private=false" alt="vyshnavlal" />
     </a>
     <a href="https://streak-stats.demolab.com/demo/" title="Go to Source">
-      <img align="right" width=390 height=250 src="https://github-readme-streak-stats.herokuapp.com/?user=vysh0x50&theme=tokyonight&hide_border=true" />
+      <img align="right" width=390 height=250 src="https://github-readme-streak-stats.demolab.com/?user=vysh0x50&theme=catppuccin-mocha&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysh0x50&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+      <img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysh0x50&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </a>
   </div>
 </p>
