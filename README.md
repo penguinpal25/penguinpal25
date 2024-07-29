@@ -37,7 +37,6 @@
       <img width=410 height=250 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vysh0x50&theme=catppuccin-mocha&hide_border=true" />
     </a>
   </div>
-  <br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vysh0x50&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
