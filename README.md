@@ -26,7 +26,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,bash,docker,git,heroku,py,ansible,arch,atom,elasticsearch,flask,github,githubactions,gitlab,gmail,grafana,jenkins,kubernetes,linkedin,md,mint,mysql,nginx,postman,redhat,terraform,ubuntu,vim,vscode,wordpress)](https://skillicons.dev)
 
-<br>
 <h2 align="center">⚡ 𝖦𝗂𝗍𝖧𝗎𝖻 𝖲𝗍𝖺𝗍𝗌 ⚡</h2>
 <p align=center>
   <div align=left>
@@ -43,7 +42,6 @@
     </a>
   </div>
 </p>
-<br>
 
 <h2 align="center">🏆 𝖦𝗂𝗍𝖧𝗎𝖻 𝖳𝗋𝗈𝗉𝗁𝗂𝖾𝗌</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vysh0x50&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="vyshnavlal" /></a> </p>
