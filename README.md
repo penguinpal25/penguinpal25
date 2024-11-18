@@ -8,15 +8,15 @@
 
 <br>
 <p align="left">
-   👦 𝖨'𝗆 𝖵𝗒𝗌𝗁𝗇𝖺𝗏𝗅𝖺𝗅, 𝖣𝖾𝗏𝖮𝗉𝗌 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 & 𝖫𝗂𝗇𝗎𝗑 𝗎𝗌𝖾𝗋.
+   👦 I'm Vyshnavlal. DevOps & Sys Admin.
   <br>
-  👨‍💻 𝖠𝗅𝗅 𝗈𝖿 𝗆𝗒 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌 𝖺𝗋𝖾 𝖺𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 on my <a href="https://vyshnavlal.xyz/projects" title="Portfolio">portfolio</a>
+  👨‍💻 All of my projects are available on <a href="https://vyshnavlal.xyz/projects" title="Portfolio">portfolio</a>
   <br>
-  💬 𝖠𝗌𝗄 𝗆𝖾 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝖺𝖻𝗈𝗎𝗍 𝖿𝗋𝗈𝗆 <a href="https://github.com/penguinpal25/penguinpal25/issues" title="Issues">Here</a>
+  💬 Ask me anything about <a href="https://github.com/penguinpal25/penguinpal25/issues" title="Issues">Here</a>
   <br>
-  📝 S𝗈𝗆𝖾 𝗈𝖿 𝗆𝗒 𝖺𝗋𝗍𝗂𝖼𝗅𝖾𝗌 𝖺𝗋𝖾 𝗈𝗇 <a href="https://hashnode.com/@vyshnavlal" title="Hashnode">Hashnode</a>
+  📝 Some of my articles are on <a href="https://hashnode.com/@vyshnavlal" title="Hashnode">Hashnode</a>
   <br>
-  📫 𝖧𝗈𝗐 𝗍𝗈 𝗋𝖾𝖺𝖼𝗁 𝗆𝖾: <a href="mailto: vyshnavlal6367@gmail.com">vyshnavlal6367@gmail.com</a>
+  📫 How to reach me <a href="mailto: vyshnavlal6367@gmail.com">vyshnavlal6367@gmail.com</a>
 </p>
 <br>
 <br>
@@ -30,11 +30,9 @@
 <p align=center>
   <div align=left>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=penguinpal25&theme=catppuccin_mocha&include_all_commits=false&count_private=false&hide_border=true&show_icons=true" alt="vyshnavlal" />
+      <img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=penguinpal25&theme=catppuccin_mocha&include_all_commits=false&count_private=false&hide_border=true&show_icons=true" alt="penguinpal25" />
     </a>
-    <a href="https://streak-stats.demolab.com/demo/" title="Go to Source">
-      <img width=410 height=250 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=penguinpal25&theme=catppuccin-mocha&hide_border=true" />
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=penguinpal25&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
   </div>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
