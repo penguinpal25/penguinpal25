@@ -20,7 +20,7 @@
   <strong>🚀 Currently working on:</strong><br>
   - Automating infrastructure management and deployments with <strong>Terraform</strong> and <strong>Ansible</strong><br>
   - Improving scalability and security of cloud-based systems<br>
-  - Contributing to various projects and collaborations on my <a href="https://vyshnavlal.xyz/projects">Projects</a><br><br>
+  - Contributing to various projects and collaborations on <a href="https://vyshnavlal.xyz/projects">Projects</a><br><br>
 
   <strong>📚 You can also find some of my articles on <a href="https://hashnode.com/@vyshnavlal">Hasnode</a></strong>, where I share insights on DevOps, Linux, and system automation.<br><br>
 
