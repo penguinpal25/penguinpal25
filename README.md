@@ -4,8 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Hello;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hola;Bonjour;Ciao;Ol%C3%A1;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;Merhaba" alt="Typing SVG" /></a>
 </h1>
 
-<img align="right" alt="anime" width="400" src="./gifs/nichijou-anime-brasil (1).gif">
-
 <br>
 <p align="left">
   <strong>I'm Vyshnavlal 👋</strong><br><br>
