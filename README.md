@@ -30,7 +30,7 @@
 <p align=center>
   <div align=left>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=penguinpal25&theme=catppuccin_mocha&include_all_commits=false&count_private=false&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
-    <a href="https://git.io/streak-stats"><img width=390 height=250 align="center" src="https://streak-stats.demolab.com/?user=penguinpal25&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img width=4000 height=250 align="center" src="https://streak-stats.demolab.com/?user=penguinpal25&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
   </div>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penguinpal25&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
