@@ -8,16 +8,25 @@
 
 <br>
 <p align="left">
-   👦 I'm Vyshnavlal. DevOps & Sys Admin.
-  <br>
-  👨‍💻 All of my projects are available on <a href="https://vyshnavlal.xyz/projects" title="Portfolio">portfolio</a>
-  <br>
-  💬 Ask me anything about <a href="https://github.com/penguinpal25/penguinpal25/issues" title="Issues">Here</a>
-  <br>
-  📝 Some of my articles are on <a href="https://hashnode.com/@vyshnavlal" title="Hashnode">Hashnode</a>
-  <br>
-  📫 How to reach me <a href="mailto: vyshnavlal6367@gmail.com">vyshnavlal6367@gmail.com</a>
+  <strong>I'm Vyshnavlal 👋</strong><br><br>
+
+  I'm a <strong>DevOps Engineer</strong> and <strong>Sys Admin</strong> with a deep passion for <strong>Linux</strong> and <strong>open-source software</strong>. My focus is on automating workflows, optimizing infrastructure, and ensuring that systems are efficient, secure, and scalable.<br><br>
+
+  <strong>🔧 I specialize in:</strong><br>
+  - DevOps practices, CI/CD pipelines, and cloud infrastructure (AWS, GCP, Azure)<br>
+  - Linux systems administration and automation (using tools like <strong>Ansible</strong>, <strong>Terraform</strong>, <strong>Docker</strong>, and <strong>Kubernetes</strong>)<br>
+  - Infrastructure as Code (IaC) and system optimization<br><br>
+
+  <strong>🚀 Currently working on:</strong><br>
+  - Automating infrastructure management and deployments with <strong>Terraform</strong> and <strong>Ansible</strong><br>
+  - Improving scalability and security of cloud-based systems<br>
+  - Contributing to various open-source projects and collaborations on my GitHub <a href="https://vyshnavlal.xyz/projects">Projects</a><br><br>
+
+  <strong>📚 You can also find some of my articles on <a href="https://hashnode.com/@vyshnavlal">Hasnode</a></strong>, where I share insights on DevOps, Linux, and system automation.<br><br>
+
+  <strong>📬 Feel free to reach out</strong>: <a href="mailto:vyshnavlal6367@gmail.com">vyshnavlal6367@gmail.com</a><br>
 </p>
+
 <br>
 <br>
 <br>
