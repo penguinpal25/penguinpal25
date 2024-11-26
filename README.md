@@ -8,23 +8,14 @@
 
 <br>
 <p align="left">
-  <strong>I'm Vyshnavlal 👋</strong><br><br>
-
-  I'm a <strong>DevOps Engineer</strong> and <strong>Sys Admin</strong> with a deep passion for <strong>Linux</strong> and <strong>open-source software</strong>. My focus is on automating workflows, optimizing infrastructure, and ensuring that systems are efficient, secure, and scalable.<br><br>
-
-  <strong>🔧 I specialize in:</strong><br>
-  - DevOps practices, CI/CD pipelines, and cloud infrastructure (AWS, GCP, Azure)<br>
-  - Linux systems administration and automation (using tools like <strong>Ansible</strong>, <strong>Terraform</strong>, <strong>Docker</strong>, and <strong>Kubernetes</strong>)<br>
-  - Infrastructure as Code (IaC) and system optimization<br><br>
-
-  <strong>🚀 Currently working on:</strong><br>
-  - Automating infrastructure management and deployments with <strong>Terraform</strong> and <strong>Ansible</strong><br>
-  - Improving scalability and security of cloud-based systems<br>
-  - Contributing to various projects and collaborations on <a href="https://vyshnavlal.xyz/projects">Projects</a><br><br>
-
-  <strong>📚 You can also find some of my articles on <a href="https://hashnode.com/@vyshnavlal">Hasnode</a></strong>, where I share insights on DevOps, Linux, and system automation.<br><br>
-
-  <strong>📬 Feel free to reach out</strong>: <a href="mailto:vyshnavlal6367@gmail.com">vyshnavlal6367@gmail.com</a><br>
+  I'm <strong>Vyshnavlal</strong>, a passionate <strong>DevOps Engineer</strong> and <strong>System Administrator</strong>. 🚀<br><br>
+  💻 <strong>Loves Linux</strong> – where the magic happens!<br>
+  🔍 Constantly exploring new technologies and ideas.<br>
+  ⚙️ Focused on automation, scalability, and system optimization.<br>
+  🤝 Contributing to various projects and collaborations on <a href="https://vyshnavlal.xyz/projects">Projects</a><br><br>
+  📚 You can also find some of my articles on <a href="https://hashnode.com/@vyshnavlal">Hasnode</a></strong>, where I share insights on DevOps, Linux, and system automation.<br><br>
+  📬 Feel free to reach out</strong>: <a href="mailto:vyshnavlal6367@gmail.com">vyshnavlal6367@gmail.com</a><br>
+  ✨ Let's connect and build something amazing together! 🌟
 </p>
 
 <br>
